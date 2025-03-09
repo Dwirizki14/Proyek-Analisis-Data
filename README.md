@@ -37,19 +37,25 @@ Setiap dataset mencakup informasi seperti tanggal, musim, kondisi cuaca, jumlah 
 
 Pastikan Python sudah terinstal, lalu jalankan perintah berikut di terminal:
 
-```pip install streamlit```
+```shell
+pip install streamlit
+```
 
 2️⃣ Jalankan Dashboard
 
 Navigasikan ke folder tempat file dashboard.py berada, lalu jalankan perintah berikut:
 
-`streamlit run dashboard.py`
+```shell
+streamlit run dashboard.py
+```
 
 3️⃣ Akses Dashboard di Browser
 
 Setelah menjalankan perintah di atas, Streamlit akan otomatis membuka browser dengan URL berikut:
 
+```shell
 http://localhost:8501
+```
 
 Jika tidak terbuka secara otomatis, buka browser dan masukkan URL tersebut secara manual.
 
