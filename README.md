@@ -31,6 +31,28 @@ Setiap dataset mencakup informasi seperti tanggal, musim, kondisi cuaca, jumlah 
 
 - Filter rentang waktu untuk analisis lebih spesifik
 
+# Cara Menjalankan Dashboard
+
+1️⃣ Instalasi Streamlit dan Dependensi
+
+Pastikan Python sudah terinstal, lalu jalankan perintah berikut di terminal:
+
+```pip install streamlit```
+
+2️⃣ Jalankan Dashboard
+
+Navigasikan ke folder tempat file dashboard.py berada, lalu jalankan perintah berikut:
+
+`streamlit run dashboard.py`
+
+3️⃣ Akses Dashboard di Browser
+
+Setelah menjalankan perintah di atas, Streamlit akan otomatis membuka browser dengan URL berikut:
+
+http://localhost:8501
+
+Jika tidak terbuka secara otomatis, buka browser dan masukkan URL tersebut secara manual.
+
 # Screenshot Dashboard Streamlit
 ![Screenshot (87)](https://github.com/user-attachments/assets/f5b40c83-199c-4d5a-aad3-8321722762dd)
 
