@@ -60,11 +60,8 @@ http://localhost:8501
 Jika tidak terbuka secara otomatis, buka browser dan masukkan URL tersebut secara manual.
 
 # Screenshot Dashboard Streamlit
-![Screenshot (87)](https://github.com/user-attachments/assets/f5b40c83-199c-4d5a-aad3-8321722762dd)
+![image](https://github.com/user-attachments/assets/07bd6e4d-53c8-4b2d-9c1b-186fc29c2a4e)
 
-![Screenshot (88)](https://github.com/user-attachments/assets/7550acd4-8204-4651-82ba-94b988bf85e8)
-
-![Screenshot (89)](https://github.com/user-attachments/assets/959f5b4a-0689-4650-80db-a1dca7abe87e)
 
 
 
