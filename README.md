@@ -2,7 +2,7 @@
 Proyek ini adalah visualisasi interaktif berbasis Streamlit untuk menjawab pertanyaan analisis dari dataset Bike Sharing, yaitu:
 1. **Bagaimana pengaruh musim terhadap jumlah peminjaman sepeda?**
 2. **Kapan jam-jam sibuk dalam penyewaan sepeda?**
-3. 
+
 # Dataset
 Dataset yang digunakan terdiri dari:
 
@@ -66,7 +66,9 @@ Jika tidak terbuka secara otomatis, buka browser dan masukkan URL tersebut secar
 
 # Screenshot Dashboard Streamlit
 ![image](https://github.com/user-attachments/assets/7cc290a9-bdbe-4c61-a0e8-12a1210d9cc9)
+
 ![image](https://github.com/user-attachments/assets/07bd6e4d-53c8-4b2d-9c1b-186fc29c2a4e)
+
 ![image](https://github.com/user-attachments/assets/c61915e2-aad6-4a23-b9c8-93c500a86434)
 
 
