@@ -43,7 +43,7 @@ st.metric("Total Registered", f"{total_registered:,}")
 st.metric("Total Casual", f"{total_casual:,}")
 
 # Grafik pengaruh musim terhadap jumlah peminjaman
-st.subheader("Bagaimana pengaruh musim terhadap jumlah peminjaman sepeda?")
+st.subheader("Bagaimana pengaruh musim terhadap jumlah peminjaman sepeda per bulan?")
 fig, ax = plt.subplots(figsize=(20, 10))
 colors = ["#D3D3D3", "#D3D3D3", "#D3D3D3", "#72BCD4"]
 sns.barplot(y="cnt", x="season", data=filtered_day_df.sort_values(by="season", ascending=False), palette=colors, ax=ax)
