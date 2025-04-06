@@ -17,7 +17,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sidebar dengan rentang waktu
-st.sidebar.image("images1.png", use_container_width=True)
 st.sidebar.title("Filter Data")
 start_date = st.sidebar.date_input("Tanggal Mulai", pd.to_datetime(day_df['dteday'].min()))
 end_date = st.sidebar.date_input("Tanggal Akhir", pd.to_datetime(day_df['dteday'].max()))
